@@ -3,6 +3,7 @@ import type { NextConfig } from "next";
 const nextConfig: NextConfig = {
   reactCompiler: true,
   output: 'export',
+  trailingSlash: true,
   // SEO and Performance Optimizations
   compress: true,
   poweredByHeader: false,

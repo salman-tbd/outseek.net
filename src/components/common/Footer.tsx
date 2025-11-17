@@ -1,7 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import { Facebook, Instagram, Twitter } from "lucide-react";
-import { NAVIGATION, BRAND_NAME, ESTABLISHED_YEAR, CONTACT_EMAIL, SOCIAL_LINKS } from "@/utils/constants";
+import { NAVIGATION, BRAND_NAME, ESTABLISHED_YEAR, CONTACT_EMAIL } from "@/utils/constants";
 
 export default function Footer() {
   const currentYear = new Date().getFullYear();
@@ -26,10 +25,12 @@ export default function Footer() {
               Transforming businesses with cutting-edge technology.
             </p>
             <div className="text-base text-gray-400 mb-6">
-              <p>Email: <a href={`mailto:${CONTACT_EMAIL}`} className="text-gray-300 hover:text-white transition-colors">{CONTACT_EMAIL}</a></p>
+              <p className="mb-2">Email: <a href={`mailto:${CONTACT_EMAIL}`} className="text-gray-300 hover:text-white transition-colors">{CONTACT_EMAIL}</a></p>
+              <p className="mb-2">Phone: <a href="tel:9998158406" className="text-gray-300 hover:text-white transition-colors">9998158406</a></p>
+              <p className="mb-2">Address: <span className="text-gray-300">Ganesh Meridian, C-202, Sarkhej - Gandhinagar Hwy, opp. Kargil Petrol Pump, Vishwas City 1, Sola, Ahmedabad, Gujarat 380060</span></p>
             </div>
             {/* Social Media */}
-            <div className="flex items-center space-x-4">
+            {/* <div className="flex items-center space-x-4">
               {SOCIAL_LINKS.facebook && (
                 <a
                   href={SOCIAL_LINKS.facebook}
@@ -63,7 +64,7 @@ export default function Footer() {
                   <Twitter size={24} />
                 </a>
               )}
-            </div>
+            </div> */}
           </div>
 
           {/* Services */}
