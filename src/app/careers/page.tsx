@@ -160,10 +160,10 @@ export default function CareersPage() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center text-white">
             <h2 className="text-3xl font-bold mb-4">
-              Don&apos;t See a Position That Fits?
+              Don't See a Position That Fits?
             </h2>
             <p className="text-xl text-white/90 mb-8">
-              We&apos;re always looking for talented individuals. Send us your resume!
+              We're always looking for talented individuals. Send us your resume!
             </p>
             <Link
               href="/contact"

@@ -26,8 +26,8 @@ export default function Footer() {
             </p>
             <div className="text-base text-gray-400 mb-6">
               <p className="mb-2">Email: <a href={`mailto:${CONTACT_EMAIL}`} className="text-gray-300 hover:text-white transition-colors">{CONTACT_EMAIL}</a></p>
-              <p className="mb-2">Phone: <a href="tel:9998158406" className="text-gray-300 hover:text-white transition-colors">9998158406</a></p>
-              <p className="mb-2">Address: <span className="text-gray-300">Ganesh Meridian, C-202, Sarkhej - Gandhinagar Hwy, opp. Kargil Petrol Pump, Vishwas City 1, Sola, Ahmedabad, Gujarat 380060</span></p>
+              <p className="mb-2">Phone: <a href="tel:+ 91 9998158406" className="text-gray-300 hover:text-white transition-colors">+91 9998158406</a></p>
+              <p className="mb-2">Address: <span className="text-gray-300">C-202, Ganesh Meridian, Sarkhej–Gandhinagar Highway, Opp. Kargil Petrol Pump, Vishwas City 1, Sola, Ahmedabad, Gujarat – 380060</span></p>
             </div>
             {/* Social Media */}
             {/* <div className="flex items-center space-x-4">
@@ -95,7 +95,7 @@ export default function Footer() {
           {/* Company */}
           <div>
             <h3 className="text-white font-semibold mb-5 text-xl tracking-tight">Company</h3>
-            <ul className="space-y-3">
+            <ul className="space-y-3 mb-5">
               {NAVIGATION.company.map((item) => (
                 <li key={item.href}>
                   <Link
@@ -107,6 +107,16 @@ export default function Footer() {
                 </li>
               ))}
             </ul>
+            <div className="pt-5 border-t border-gray-800">
+              <h4 className="text-white font-semibold mb-3 text-base tracking-tight">Branches</h4>
+              <ul className="space-y-2">
+                <li className="text-gray-400">Jaipur</li>
+                <li className="text-gray-400">Pune</li>
+                <li className="text-gray-400">Hyderabad</li>
+                <li className="text-gray-400">Gandhinagar</li>
+                <li className="text-gray-400">Surat</li>
+              </ul>
+            </div>
           </div>
 
           {/* Support & Legal */}

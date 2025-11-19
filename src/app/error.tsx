@@ -28,7 +28,7 @@ export default function Error({
             Something Went Wrong
           </h2>
           <p className="text-lg text-gray-600 mb-8 max-w-md mx-auto">
-            We&apos;re sorry, but something unexpected happened. Our team has been notified and is working to fix the issue.
+            We're sorry, but something unexpected happened. Our team has been notified and is working to fix the issue.
           </p>
         </div>
 

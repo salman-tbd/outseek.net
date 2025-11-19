@@ -381,7 +381,7 @@ export default function LoginPage() {
                 <p className="text-sm text-gray-600">
                   {activeTab === "login" ? (
                     <>
-                      Don&apos;t have an account?{" "}
+                      Don't have an account?{" "}
                       <button
                         onClick={() => setActiveTab("signup")}
                         className="text-[#4F3F7C] hover:text-[#3d2f61] font-medium"

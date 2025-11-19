@@ -92,10 +92,10 @@ export default function SolutionsPage() {
                   Solving Complex Business Challenges
                 </h2>
                 <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-4 break-words">
-                  At Outseek, we understand that every business faces unique challenges in today&apos;s rapidly evolving digital landscape. Our technology solutions are designed to address these challenges head-on, providing you with the tools and expertise needed to transform your operations, improve efficiency, and drive sustainable growth.
+                  At Outseek, we understand that every business faces unique challenges in today's rapidly evolving digital landscape. Our technology solutions are designed to address these challenges head-on, providing you with the tools and expertise needed to transform your operations, improve efficiency, and drive sustainable growth.
                 </p>
                 <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-4 break-words">
-                  Whether you&apos;re looking to modernize legacy systems, migrate to the cloud, implement artificial intelligence, or enhance your cybersecurity posture, we have the experience and capabilities to deliver solutions that make a real difference. We work closely with our clients to understand their specific needs and develop customized approaches that align with their business objectives.
+                  Whether you're looking to modernize legacy systems, migrate to the cloud, implement artificial intelligence, or enhance your cybersecurity posture, we have the experience and capabilities to deliver solutions that make a real difference. We work closely with our clients to understand their specific needs and develop customized approaches that align with their business objectives.
                 </p>
                 <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
                   Our team combines technical excellence with business acumen, ensuring that every solution we deliver not only meets technical requirements but also delivers measurable business value. We believe in building long-term partnerships with our clients, providing ongoing support and guidance as their needs evolve.
@@ -108,7 +108,7 @@ export default function SolutionsPage() {
                   </div>
                   <h3 className="text-xl sm:text-2xl font-bold mb-3 sm:mb-4">Strategic Partnership</h3>
                   <p className="text-sm sm:text-base text-white/90 leading-relaxed mb-4 sm:mb-6 break-words">
-                    We don&apos;t just deliver solutions—we become your technology partner, working alongside your team to ensure success every step of the way.
+                    We don't just deliver solutions—we become your technology partner, working alongside your team to ensure success every step of the way.
                   </p>
                   <div className="space-y-3 sm:space-y-4">
                     <div className="flex items-start">
@@ -222,7 +222,7 @@ export default function SolutionsPage() {
                 </div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-900 mb-3 sm:mb-4">Customized Approach</h3>
                 <p className="text-sm sm:text-base text-gray-600 leading-relaxed break-words">
-                  We understand that one size doesn&apos;t fit all. Every solution we develop is tailored to your specific business needs, challenges, and objectives. We take the time to understand your unique situation before proposing solutions.
+                  We understand that one size doesn't fit all. Every solution we develop is tailored to your specific business needs, challenges, and objectives. We take the time to understand your unique situation before proposing solutions.
                 </p>
               </div>
               <div className="group bg-white rounded-2xl p-6 sm:p-8 shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
@@ -231,7 +231,7 @@ export default function SolutionsPage() {
                 </div>
                 <h3 className="text-lg sm:text-xl font-bold text-gray-900 mb-3 sm:mb-4">Scalable Solutions</h3>
                 <p className="text-sm sm:text-base text-gray-600 leading-relaxed break-words">
-                  We design solutions that grow with your business. Whether you&apos;re a startup or an enterprise, our solutions are built to scale, ensuring they continue to meet your needs as you expand and evolve.
+                  We design solutions that grow with your business. Whether you're a startup or an enterprise, our solutions are built to scale, ensuring they continue to meet your needs as you expand and evolve.
                 </p>
               </div>
               <div className="group bg-white rounded-2xl p-6 sm:p-8 shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
@@ -285,7 +285,7 @@ export default function SolutionsPage() {
                 </div>
                 <h3 className="text-xl sm:text-2xl font-bold text-gray-900 mb-3 sm:mb-4">Design & Development</h3>
                 <p className="text-sm sm:text-base text-gray-600 leading-relaxed break-words">
-                  Our team designs and develops solutions using best practices and modern technologies. We maintain regular communication throughout the process, ensuring you&apos;re informed and involved every step of the way.
+                  Our team designs and develops solutions using best practices and modern technologies. We maintain regular communication throughout the process, ensuring you're informed and involved every step of the way.
                 </p>
               </div>
               <div className="group text-center bg-white rounded-2xl p-6 sm:p-8 lg:p-10 shadow-lg border border-gray-100 hover:shadow-2xl transition-all duration-300 transform hover:-translate-y-2 overflow-hidden">
@@ -380,7 +380,7 @@ export default function SolutionsPage() {
               Need a Custom Solution?
             </h2>
             <p className="text-base sm:text-lg lg:text-xl text-white/95 mb-8 sm:mb-10 leading-relaxed px-4 break-words">
-              Let&apos;s discuss how we can create a tailored solution for your business
+              Let's discuss how we can create a tailored solution for your business
             </p>
             <Link
               href="/contact"

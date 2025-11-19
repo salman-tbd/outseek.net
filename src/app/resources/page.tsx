@@ -116,7 +116,7 @@ export default function ResourcesPage() {
               Resources That Actually Help
             </h1>
             <p className="text-xl text-gray-600 mb-2">
-              Everything we&apos;ve learned from building real solutions for real businesses
+              Everything we've learned from building real solutions for real businesses
             </p>
             <p className="text-lg text-gray-500">
               No marketing fluff. Just practical guides, templates, and insights you can use today.
@@ -219,7 +219,7 @@ export default function ResourcesPage() {
               Need Something Specific?
             </h2>
             <p className="text-lg text-gray-600 mb-8">
-              If you&apos;re looking for resources on a particular topic or have questions about any of our guides, we&apos;re here to help. Reach out and let&apos;s talk.
+              If you're looking for resources on a particular topic or have questions about any of our guides, we're here to help. Reach out and let's talk.
             </p>
             <Link
               href="/contact"

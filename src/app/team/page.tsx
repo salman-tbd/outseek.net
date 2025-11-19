@@ -104,7 +104,7 @@ export default function TeamPage() {
               Join Our Team
             </h2>
             <p className="text-lg text-gray-600 mb-8">
-              We&apos;re always looking for talented individuals to join our growing team
+              We're always looking for talented individuals to join our growing team
             </p>
             <a
               href="/careers"

@@ -108,7 +108,7 @@ export default function CaseStudiesPage() {
               Case Studies
             </h1>
             <p className="text-xl text-gray-600 mb-2">
-              Real results from real projects. See how we&apos;ve helped businesses succeed.
+              Real results from real projects. See how we've helped businesses succeed.
             </p>
             <p className="text-lg text-gray-500">
               Each project tells a unique story of challenges overcome and goals achieved through collaboration and innovation.
@@ -240,7 +240,7 @@ export default function CaseStudiesPage() {
               Ready to Achieve Similar Results?
             </h2>
             <p className="text-xl text-white/90 mb-8">
-              Let&apos;s discuss how we can help your business succeed. Every project starts with a conversation.
+              Let's discuss how we can help your business succeed. Every project starts with a conversation.
             </p>
             <Link
               href="/contact"

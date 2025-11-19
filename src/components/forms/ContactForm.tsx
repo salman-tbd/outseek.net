@@ -38,7 +38,7 @@ export default function ContactForm() {
           </svg>
           <div>
             <h3 className="text-lg font-semibold text-green-900">Thank you for your message!</h3>
-            <p className="text-green-700">We&apos;ll get back to you within 24 hours.</p>
+            <p className="text-green-700">We'll get back to you within 24 hours.</p>
           </div>
         </div>
       </div>

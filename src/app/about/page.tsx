@@ -115,16 +115,16 @@ export default function AboutPage() {
                 </div>
                 <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-lg border border-gray-100 hover:shadow-xl transition-all duration-300 overflow-hidden">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    Over the past {yearsOfExperience} years, we&apos;ve watched technology evolve from simple websites to 
-                    complex AI systems, from on-premise servers to cloud infrastructure. We&apos;ve adapted and grown with 
+                    Over the past {yearsOfExperience} years, we've watched technology evolve from simple websites to 
+                    complex AI systems, from on-premise servers to cloud infrastructure. We've adapted and grown with 
                     these changes, always keeping our focus on what matters most: solving real problems for real businesses.
                   </p>
                 </div>
                 <div className="bg-white rounded-2xl p-6 sm:p-8 shadow-lg border border-gray-100 hover:shadow-xl transition-all duration-300 overflow-hidden">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
                     Today, we work with companies of all sizes, from startups to enterprise organizations. What unites 
-                    our clients isn&apos;t their size or industry it&apos;s their desire to use technology as a competitive 
-                    advantage. We&apos;re here to make that happen.
+                    our clients isn't their size or industry it's their desire to use technology as a competitive 
+                    advantage. We're here to make that happen.
                   </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ export default function AboutPage() {
                 Mission & Vision
               </h2>
               <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto px-4">
-                What drives us forward and where we&apos;re heading
+                What drives us forward and where we're heading
               </p>
             </div>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 lg:gap-8">
@@ -176,13 +176,13 @@ export default function AboutPage() {
                 </h3>
                 <div className="space-y-3 sm:space-y-4">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    We&apos;re here to help businesses unlock their potential through smart technology choices. 
-                    Every project we take on is an opportunity to make a real difference, whether that&apos;s 
+                    We're here to help businesses unlock their potential through smart technology choices. 
+                    Every project we take on is an opportunity to make a real difference, whether that's 
                     streamlining operations, improving customer experiences, or opening up entirely new 
                     revenue streams.
                   </p>
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    We believe technology should serve people, not the other way around. That&apos;s why we 
+                    We believe technology should serve people, not the other way around. That's why we 
                     take the time to understand your business, your challenges, and your goals before 
                     we recommend any solution. Because the best technology is the one that actually 
                     solves your problem.
@@ -200,12 +200,12 @@ export default function AboutPage() {
                 <div className="space-y-3 sm:space-y-4">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
                     We envision a world where every business, regardless of size, has access to the 
-                    technology expertise they need to thrive. Technology shouldn&apos;t be a barrier, it 
-                    should be an enabler. That&apos;s the world we&apos;re working to build.
+                    technology expertise they need to thrive. Technology shouldn't be a barrier, it 
+                    should be an enabler. That's the world we're working to build.
                   </p>
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    As technology continues to evolve at breakneck speed, we&apos;re committed to staying 
-                    ahead of the curve. We&apos;re constantly learning, experimenting, and adapting so 
+                    As technology continues to evolve at breakneck speed, we're committed to staying 
+                    ahead of the curve. We're constantly learning, experimenting, and adapting so 
                     that we can bring you the latest innovations, but only when they make sense for 
                     your business.
                   </p>
@@ -233,25 +233,25 @@ export default function AboutPage() {
                 {
                   icon: "lightbulb",
                   title: "Innovation",
-                  description: "We&apos;re always exploring what&apos;s next, but we&apos;re practical about it. We test new technologies carefully and only recommend them when they offer real value.",
+                  description: "We're always exploring what's next, but we're practical about it. We test new technologies carefully and only recommend them when they offer real value.",
                   gradient: "from-yellow-400 to-orange-500",
                 },
                 {
                   icon: "award",
                   title: "Excellence",
-                  description: "Good enough isn&apos;t good enough. We hold ourselves to high standards and take pride in delivering work that exceeds expectations.",
+                  description: "Good enough isn't good enough. We hold ourselves to high standards and take pride in delivering work that exceeds expectations.",
                   gradient: "from-blue-400 to-indigo-600",
                 },
                 {
                   icon: "users",
                   title: "Partnership",
-                  description: "We&apos;re not just vendors we&apos;re your technology partners. We invest in understanding your business because your success is our success.",
+                  description: "We're not just vendors we're your technology partners. We invest in understanding your business because your success is our success.",
                   gradient: "from-green-400 to-emerald-600",
                 },
                 {
                   icon: "shield",
                   title: "Integrity",
-                  description: "We do what we say we&apos;ll do. Honest communication, transparent pricing, and ethical practices aren&apos;t optional they&apos;re fundamental.",
+                  description: "We do what we say we'll do. Honest communication, transparent pricing, and ethical practices aren't optional they're fundamental.",
                   gradient: "from-purple-400 to-pink-600",
                 },
               ].map((value, index) => (
@@ -281,30 +281,30 @@ export default function AboutPage() {
                 Why Clients Choose {BRAND_NAME}
               </h2>
               <p className="text-base sm:text-lg lg:text-xl text-gray-600 max-w-2xl mx-auto px-4">
-                There are plenty of technology companies out there. Here&apos;s what makes us different
+                There are plenty of technology companies out there. Here's what makes us different
               </p>
             </div>
             <div className="space-y-4 sm:space-y-6">
               {[
                 {
                   title: "Experienced Team You Can Trust",
-                  description: "Our team has been around the block. We&apos;ve seen technologies come and go, and we know what works. Our developers, consultants, and project managers have hands-on experience with everything from legacy systems to cutting-edge AI. When you work with us, you&apos;re getting real expertise, not just certifications.",
+                  description: "Our team has been around the block. We have seen technologies come and go, and we know what works. Our developers, consultants, and project managers have hands-on experience with everything from legacy systems to cutting-edge AI. When you work with us, you're getting real expertise, not just certifications.",
                 },
                 {
                   title: "Proven Results Across Industries",
-                  description: `Over ${yearsOfExperience} years, we&apos;ve helped hundreds of companies solve complex technology challenges. We&apos;ve worked with healthcare organizations improving patient care, financial institutions enhancing security, retail businesses streamlining operations, and manufacturing companies optimizing production. Experience across industries means we bring fresh perspectives to your challenges.`,
+                  description: `Over ${yearsOfExperience} years, we've helped hundreds of companies solve complex technology challenges. We've worked with healthcare organizations improving patient care, financial institutions enhancing security, retail businesses streamlining operations, and manufacturing companies optimizing production. Experience across industries means we bring fresh perspectives to your challenges.`,
                 },
                 {
                   title: "Technology That Actually Works",
-                  description: "We&apos;re excited about new technologies, but we&apos;re not caught up in the hype. We evaluate each solution based on whether it solves your specific problem. Sometimes that means using the latest AI tools, and sometimes it means sticking with proven technologies that just work. Our goal is to give you the right solution, not the flashiest one.",
+                  description: "We are excited about new technologies, but we are not caught up in the hype. We evaluate each solution based on whether it solves your specific problem. Sometimes that means using the latest AI tools, and sometimes it means sticking with proven technologies that just work. Our goal is to give you the right solution, not the flashiest one.",
                 },
                 {
-                  title: "You&apos;re More Than Just a Project",
-                  description: "We take the time to understand your business because generic solutions don&apos;t cut it. Every organization is different, and we tailor our approach to fit your unique situation. We ask questions, listen carefully, and work collaboratively to ensure the technology we build actually helps you achieve your goals.",
+                  title: "You're More Than Just a Project",
+                  description: "We take the time to understand your business because generic solutions do not cut it. Every organization is different, and we tailor our approach to fit your unique situation. We ask questions, listen carefully, and work collaboratively to ensure the technology we build actually helps you achieve your goals.",
                 },
                 {
                   title: "Support That Goes Beyond Launch",
-                  description: "Our relationship doesn&apos;t end when the project launches. Technology needs ongoing care updates, security patches, performance monitoring, and adjustments as your business evolves. We&apos;re here for the long haul, providing support and guidance as your needs change.",
+                  description: "Our relationship does not end when the project launches. Technology needs ongoing care updates, security patches, performance monitoring, and adjustments as your business evolves. We're here for the long haul, providing support and guidance as your needs change.",
                 },
               ].map((item, index) => (
                 <div
@@ -350,13 +350,13 @@ export default function AboutPage() {
                 {
                   icon: "message",
                   title: "We Listen First",
-                  description: "Before we write a single line of code, we sit down with you to understand your business, your challenges, and your goals. We ask questions, take notes, and make sure we really get what you&apos;re trying to achieve.",
+                  description: "Before we write a single line of code, we sit down with you to understand your business, your challenges, and your goals. We ask questions, take notes, and make sure we really get what you are trying to achieve.",
                   color: "from-blue-500 to-cyan-600",
                 },
                 {
                   icon: "lightbulb",
                   title: "We Plan Together",
-                  description: "Once we understand your needs, we work with you to design a solution. We show you options, explain the trade-offs, and help you make informed decisions. You&apos;re involved every step of the way.",
+                  description: "Once we understand your needs, we work with you to design a solution. We show you options, explain the trade-offs, and help you make informed decisions. You are involved every step of the way.",
                   color: "from-yellow-500 to-orange-600",
                 },
                 {
@@ -407,14 +407,14 @@ export default function AboutPage() {
                 </h3>
                 <div className="space-y-3 sm:space-y-4">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    Our team is the heart of {BRAND_NAME}. We&apos;ve assembled a diverse group of talented professionals 
+                    Our team is the heart of {BRAND_NAME}. We've assembled a diverse group of talented professionals 
                     who bring years of experience, fresh perspectives, and a shared commitment to excellence. From 
                     developers and designers to consultants and project managers, every team member plays a crucial 
                     role in delivering exceptional results.
                   </p>
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
                     We believe in hiring not just for skills, but for culture fit. Our team members are collaborative, 
-                    curious, and genuinely passionate about solving complex problems. They&apos;re the reason our clients 
+                    curious, and genuinely passionate about solving complex problems. They're the reason our clients 
                     trust us with their most important technology initiatives.
                   </p>
                 </div>
@@ -429,7 +429,7 @@ export default function AboutPage() {
                 </h3>
                 <div className="space-y-3 sm:space-y-4">
                   <p className="text-base sm:text-lg text-gray-700 leading-relaxed break-words">
-                    Technology never stops evolving, and neither do we. We invest heavily in our team&apos;s professional 
+                    Technology never stops evolving, and neither do we. We invest heavily in our team's professional 
                     development through ongoing training, certifications, conference attendance, and hands-on 
                     experimentation with new technologies. When our team grows, our clients benefit.
                   </p>
@@ -458,7 +458,7 @@ export default function AboutPage() {
                 {
                   icon: "users",
                   title: "Collaborative Environment",
-                  description: "Collaboration isn&apos;t just a buzzword—it&apos;s how we operate. We believe the best solutions come from diverse teams working together, sharing knowledge, and supporting each other.",
+                  description: "Collaboration isn't just a buzzword—it's how we operate. We believe the best solutions come from diverse teams working together, sharing knowledge, and supporting each other.",
                   gradient: "from-blue-400 to-indigo-600",
                 },
               ].map((item, index) => (
@@ -496,14 +496,14 @@ export default function AboutPage() {
             </h2>
             <div className="space-y-4 sm:space-y-6 mb-8 sm:mb-12 px-4">
               <p className="text-base sm:text-lg lg:text-xl text-white/95 leading-relaxed break-words">
-                When you choose {BRAND_NAME}, you&apos;re not just getting a technology vendor. You&apos;re getting a partner 
-                who cares about your success. We&apos;re committed to being transparent, responsive, and accountable. 
-                We&apos;ll tell you what we can do, what we can&apos;t do, and what it will cost—no surprises.
+                When you choose {BRAND_NAME}, you're not just getting a technology vendor. You're getting a partner 
+                who cares about your success. We're committed to being transparent, responsive, and accountable. 
+                We'll tell you what we can do, what we can't do, and what it will cost—no surprises.
               </p>
               <p className="text-sm sm:text-base lg:text-lg text-white/85 leading-relaxed break-words">
-                We&apos;re here to help you navigate the complex world of technology, make informed decisions, and build 
-                solutions that drive real business results. That&apos;s what we&apos;ve been doing for {yearsOfExperience} years, 
-                and it&apos;s what we&apos;ll continue doing for years to come.
+                We're here to help you navigate the complex world of technology, make informed decisions, and build 
+                solutions that drive real business results. That's what we've been doing for {yearsOfExperience} years, 
+                and it's what we'll continue doing for years to come.
               </p>
             </div>
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-4">

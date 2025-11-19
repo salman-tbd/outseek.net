@@ -51,7 +51,7 @@ export default function ContactPage() {
               Contact Us
             </h1>
             <p className="text-xl text-gray-600">
-              Let&apos;s discuss how we can help transform your business
+              Let's discuss how we can help transform your business
             </p>
           </div>
         </div>

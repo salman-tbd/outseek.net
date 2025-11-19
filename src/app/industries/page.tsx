@@ -21,12 +21,12 @@ export const metadata: Metadata = {
 const industries = [
   {
     title: "Healthcare",
-    description: "We&apos;ve worked with hospitals, clinics, and medical practices to build systems that keep patient data secure while making healthcare more accessible. Our solutions help doctors spend less time on paperwork and more time with patients.",
+    description: "We've worked with hospitals, clinics, and medical practices to build systems that keep patient data secure while making healthcare more accessible. Our solutions help doctors spend less time on paperwork and more time with patients.",
     icon: "hospital",
     challenges: [
       "Protecting sensitive patient information",
       "Meeting strict HIPAA compliance requirements",
-      "Connecting different systems that don&apos;t talk to each other",
+      "Connecting different systems that don't talk to each other",
       "Making telemedicine work smoothly for patients and providers"
     ],
     solutions: [
@@ -39,7 +39,7 @@ const industries = [
   },
   {
     title: "Finance & Banking",
-    description: "Banks and financial institutions trust us with their most critical systems. We understand that when money is involved, there&apos;s no room for error. Our solutions handle transactions securely while keeping everything running smoothly.",
+    description: "Banks and financial institutions trust us with their most critical systems. We understand that when money is involved, there's no room for error. Our solutions handle transactions securely while keeping everything running smoothly.",
     icon: "creditcard",
     challenges: [
       "Processing millions of transactions without hiccups",
@@ -57,7 +57,7 @@ const industries = [
   },
   {
     title: "Retail & E-commerce",
-    description: "Whether you&apos;re selling online, in stores, or both, we help retailers compete in today&apos;s market. We&apos;ve seen what works and what doesn&apos;t, and we build systems that actually help you sell more.",
+    description: "Whether you're selling online, in stores, or both, we help retailers compete in today's market. We've seen what works and what doesn't, and we build systems that actually help you sell more.",
     icon: "shopping",
     challenges: [
       "Managing inventory across multiple locations and channels",
@@ -68,7 +68,7 @@ const industries = [
     solutions: [
       "E-commerce platforms that convert visitors into customers",
       "Inventory systems that know what you have and where it is",
-      "Customer analytics that show you what&apos;s actually selling",
+      "Customer analytics that show you what's actually selling",
       "Omnichannel solutions that connect online and in-store experiences"
     ],
     useCase: "A mid-size retailer was struggling to keep track of inventory between their warehouse and three store locations. We implemented a real-time inventory system that reduced stockouts by 40% and increased sales by 18%."
@@ -212,7 +212,7 @@ const industries = [
     solutions: [
       "Citizen portals that make accessing services easy",
       "Secure systems that protect sensitive government data",
-      "Legacy system modernization that doesn&apos;t disrupt services",
+      "Legacy system modernization that doesn't disrupt services",
       "Compliance solutions that meet regulatory requirements"
     ],
     useCase: "A state agency needed to process 50,000 permit applications per year but was drowning in paperwork. We digitized their process, reducing processing time from 6 weeks to 3 days and cutting costs by 40%."
@@ -231,7 +231,7 @@ const industries = [
       "Donor management systems that help you build lasting relationships",
       "Volunteer coordination platforms that make scheduling easy",
       "Fundraising tools that maximize every campaign",
-      "Impact tracking that shows donors the difference they&apos;re making"
+      "Impact tracking that shows donors the difference they're making"
     ],
     useCase: "A non-profit was spending too much time on administrative tasks. We automated their donor management and volunteer coordination, allowing them to serve 30% more people with the same team size."
   }
@@ -248,7 +248,7 @@ export default function IndustriesPage() {
               Industries We <span className="text-[#4F3F7C]">Serve</span>
             </h1>
             <p className="text-xl sm:text-2xl text-gray-600 max-w-3xl mx-auto leading-relaxed mb-8">
-              Every industry has its own challenges. We&apos;ve spent years learning what works in healthcare, finance, retail, manufacturing, and dozens of other sectors. That experience means we can build solutions that actually fit how your business works.
+              Every industry has its own challenges. We've spent years learning what works in healthcare, finance, retail, manufacturing, and dozens of other sectors. That experience means we can build solutions that actually fit how your business works.
             </p>
             <div className="flex flex-wrap justify-center gap-4 text-sm text-gray-600">
               <div className="bg-white/80 backdrop-blur-sm px-4 py-2 rounded-full border border-gray-200">
@@ -275,13 +275,13 @@ export default function IndustriesPage() {
                   Why Industry Expertise Matters
                 </h2>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  When we started working with different industries, we quickly learned that a one-size-fits-all approach doesn&apos;t work. A solution that&apos;s perfect for a retail store might be completely wrong for a hospital. That&apos;s why we&apos;ve made it a point to understand the unique challenges each industry faces.
+                  When we started working with different industries, we quickly learned that a one-size-fits-all approach doesn't work. A solution that's perfect for a retail store might be completely wrong for a hospital. That's why we've made it a point to understand the unique challenges each industry faces.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed mb-4">
-                  Over the years, we&apos;ve built systems for healthcare providers who need HIPAA compliance, financial institutions that process millions of transactions, manufacturers tracking production in real-time, and retailers managing inventory across multiple channels. Each project taught us something new about what works in that specific industry.
+                  Over the years, we've built systems for healthcare providers who need HIPAA compliance, financial institutions that process millions of transactions, manufacturers tracking production in real-time, and retailers managing inventory across multiple channels. Each project taught us something new about what works in that specific industry.
                 </p>
                 <p className="text-lg text-gray-700 leading-relaxed">
-                  This experience means when you work with us, you&apos;re not just getting a technology vendor. You&apos;re getting a partner who understands your business, knows your compliance requirements, and has solved similar problems before. That knowledge saves you time, reduces risk, and helps us build solutions that actually work in the real world.
+                  This experience means when you work with us, you're not just getting a technology vendor. You're getting a partner who understands your business, knows your compliance requirements, and has solved similar problems before. That knowledge saves you time, reduces risk, and helps us build solutions that actually work in the real world.
                 </p>
               </div>
               <div className="bg-gradient-to-br from-[#4F3F7C] to-[#6B5B95] rounded-3xl p-10 shadow-2xl">
@@ -291,7 +291,7 @@ export default function IndustriesPage() {
                   </div>
                   <h3 className="text-2xl font-bold mb-4">Real-World Experience</h3>
                   <p className="text-white/90 leading-relaxed mb-6">
-                    We don&apos;t just read about industries—we work in them. Every project adds to our understanding of what makes businesses in different sectors tick.
+                    We don't just read about industries—we work in them. Every project adds to our understanding of what makes businesses in different sectors tick.
                   </p>
                   <div className="space-y-4">
                     <div className="flex items-start">
@@ -367,7 +367,7 @@ export default function IndustriesPage() {
                 How We Help Each Industry
               </h2>
               <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                Here&apos;s a closer look at the specific challenges we solve and the real results we&apos;ve delivered
+                Here's a closer look at the specific challenges we solve and the real results we've delivered
               </p>
             </div>
 
@@ -454,7 +454,7 @@ export default function IndustriesPage() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">We Listen First</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Before we write a single line of code, we spend time understanding your business. We talk to your team, learn about your processes, and identify what&apos;s really causing problems. This upfront work saves time and ensures we build the right solution.
+                  Before we write a single line of code, we spend time understanding your business. We talk to your team, learn about your processes, and identify what's really causing problems. This upfront work saves time and ensures we build the right solution.
                 </p>
               </div>
 
@@ -464,7 +464,7 @@ export default function IndustriesPage() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">We Leverage Experience</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  Years of working across industries means we&apos;ve seen similar challenges before. We bring that knowledge to every project, helping you avoid common pitfalls and implement solutions that have proven to work in your industry.
+                  Years of working across industries means we've seen similar challenges before. We bring that knowledge to every project, helping you avoid common pitfalls and implement solutions that have proven to work in your industry.
                 </p>
               </div>
 
@@ -474,7 +474,7 @@ export default function IndustriesPage() {
                 </div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-4">We Measure Success</h3>
                 <p className="text-gray-700 leading-relaxed">
-                  We don&apos;t just build systems and walk away. We track metrics that matter to your business—whether that&apos;s reduced wait times, increased sales, or lower operational costs. Then we keep improving based on what the data tells us.
+                  We don't just build systems and walk away. We track metrics that matter to your business—whether that's reduced wait times, increased sales, or lower operational costs. Then we keep improving based on what the data tells us.
                 </p>
               </div>
             </div>
@@ -490,7 +490,7 @@ export default function IndustriesPage() {
               Ready to See What We Can Do for Your Industry?
             </h2>
             <p className="text-xl text-white/90 mb-8 leading-relaxed">
-              Whether you&apos;re in one of these industries or something else entirely, we&apos;d love to hear about your challenges. Let&apos;s have a conversation about how technology can help your business grow.
+              Whether you're in one of these industries or something else entirely, we'd love to hear about your challenges. Let's have a conversation about how technology can help your business grow.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <Link

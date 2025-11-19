@@ -327,7 +327,7 @@ export default function HomePage() {
               Ready to Transform Your Business?
             </h2>
             <p className="text-xl sm:text-2xl text-white/90 mb-12 max-w-2xl mx-auto leading-relaxed">
-              Let&apos;s discuss how our technology solutions can drive your success and accelerate your digital transformation journey
+              Let's discuss how our technology solutions can drive your success and accelerate your digital transformation journey
             </p>
             <div className="flex flex-col sm:flex-row items-center justify-center gap-6">
               <Link

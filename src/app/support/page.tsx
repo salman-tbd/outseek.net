@@ -30,7 +30,7 @@ const supportCategories = [
       {
         icon: "mail",
         title: "Email Support",
-        description: "Send us an email and we&apos;ll respond within 24 hours",
+        description: "Send us an email and we'll respond within 24 hours",
         action: `mailto:${CONTACT_EMAIL}`,
         actionText: "Send Email",
         badge: "24h response",
@@ -108,7 +108,7 @@ export default function SupportPage() {
               Support Center
             </h1>
             <p className="text-xl text-gray-600 mb-4">
-              We&apos;re here to help you succeed. Find answers, get assistance, or reach out to our team.
+              We're here to help you succeed. Find answers, get assistance, or reach out to our team.
             </p>
             <p className="text-lg text-gray-500">
               Most questions are answered in under 5 minutes
@@ -242,7 +242,7 @@ export default function SupportPage() {
                   </div>
                   <div>
                     <h3 className="text-xl font-semibold text-gray-900">Business Hours</h3>
-                    <p className="text-sm text-gray-500">When we&apos;re available</p>
+                    <p className="text-sm text-gray-500">When we're available</p>
                   </div>
                 </div>
                 <div className="space-y-2 text-gray-700">
