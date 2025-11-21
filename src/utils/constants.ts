@@ -176,9 +176,9 @@ export const SERVICES = [
 
 // Social media links
 export const SOCIAL_LINKS = {
-  twitter: "https://twitter.com/outseek",
-  facebook: "https://facebook.com/outseek",
-  instagram: "https://instagram.com/outseek",
+  twitter: "https://x.com/Outseek181350",
+  facebook: "https://www.facebook.com/profile.php?id=61583619525859",
+  instagram: "https://www.instagram.com/outseek8/",
 };
 
 // Navigation structure
